@@ -119,18 +119,8 @@ h1,h3{
 
 /* début exo 06 background-attachement*/
 .img-12{
-    background-image: url(../images/bg_image.jpg);
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 .img-13{
-    background-image: url(../images/bg_image.jpg);
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 /* fin exo 06 background-attachement*/
 
